@@ -1,0 +1,7 @@
+id_cliente,nome,email,data_nascimento,limite_credito,info_adicionais,cadastro_ativo,id_produto
+1,Marcos,marcos@email.com,1991-01-05,8000.0,,1,2.0
+2,Carol,carol@email.com,1998-02-26,5500.0,,1,1.0
+3,Ana,ana@email.com,1980-05-28,10000.0,Revisão de cadastro,1,1.0
+4,João,joao@email.com,1995-10-14,5500.0,Inativo,0,
+5,Thiago,thiago@email.com,2001-08-20,4600.0,,1,1.0
+6,A,"a@a,com",1990-10-10,,,1,
